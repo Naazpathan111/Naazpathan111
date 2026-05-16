@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on: MERN stack projects  <br>🌱 Learning: React & Node.js  <br>👯 Looking to collaborate on: Full-stack projects
+🔭 Working on: Python Full stack projects  <br>🌱 Learning: Django , FastAPI  <br>👯 Looking to collaborate on: Full-stack projects
 
 
 ## 🌐 Socials:
