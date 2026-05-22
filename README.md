@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on: Python Full stack projects  <br>🌱 Learning: Django , FastAPI  <br>👯 Looking to collaborate on: Full-stack projects
+🔭 Working on: Web Developer projects  <br>🌱 Learning: Angular , Typescript  <br>👯 Looking to collaborate on: Full-stack projects
 
 
 ## 🌐 Socials:
